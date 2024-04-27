@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">A passionate junior back-end developer from Ukraine.</h3>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denis-volynshykov-47b290249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="20" width="30" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,11 +45,9 @@
 	  </a>
 	</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 <img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-svol&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 120px;">
 
-
-</div>
 
 <br><br>
