@@ -51,3 +51,5 @@
 
 
 <br><br>
+## 📊 GitHub Stats:
+[![](https://visitcount.itsvg.in/api?id=d-svol&icon=5&color=1)](https://visitcount.itsvg.in)
