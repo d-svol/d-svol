@@ -4,9 +4,14 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/denis-volynshykov-47b290249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="20" width="30" /></a>
-</p>
+<blockquote>
+	<p align="left" style="padding-left: 20px;">
+		<a href="https://linkedin.com/in/denis-volynshykov-47b290249">
+		    Linkedin
+		</a>
+	</p>
+   <a href="https://linkedin.com/in/denis-volynshykov-47b290249" target="blank"><img align="center" 	src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+</blockquote>
 
 <hr>
 
@@ -16,33 +21,25 @@
 
 	<p align="left">
 		<p>Java, Spring</p>
-	  <a href="https://skillicons.dev">
 	    <img src="https://skillicons.dev/icons?i=java,spring" />
-	  </a>
 	</p>
 
 - Frontend
 	<p align="left">
 		<p>HTML, CSS, Bootstrap</p>
-	  <a href="https://skillicons.dev">
 	    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-	  </a>
 	</p>
   
 - Database
 	<p align="left">
 		<p>MySQL, PostgreSQL</p>
-	  <a href="https://skillicons.dev">
 	    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-	  </a>
 	</p>
 
 - Tools
 	<p align="left">
  		<p>Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA, Linux</p>
-	  <a href="https://skillicons.dev">
 	    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,linux" />
-	  </a>
 	</p>
 
 <hr>
@@ -51,5 +48,5 @@
 
 
 <br><br>
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=d-svol&icon=5&color=1)](https://visitcount.itsvg.in)
